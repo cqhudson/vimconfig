@@ -1,3 +1,7 @@
+# Exclude all files & directories
 /*
+
+# Only track the following files
 !.vimrc
 !.gitignore
+!readme.md
