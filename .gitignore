@@ -3,5 +3,6 @@
 
 # Only track the following files
 !.vimrc
+!vimfiles
 !.gitignore
 !readme.md
